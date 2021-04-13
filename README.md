@@ -2,6 +2,10 @@
 
 ## Dataset Link - https://www.kaggle.com/andrewmvd/fetal-health-classification
 
+## Abstract 
+
+Classify fetal health in order to prevent child and maternal mortality.
+
 ## Context
 
 Reduction of child mortality is reflected in several of the United Nations' Sustainable Development Goals and is a key indicator of human progress.
